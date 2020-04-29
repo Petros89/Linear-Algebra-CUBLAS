@@ -1,0 +1,9 @@
+# This file demonstrates the wall time measurements in seconds (s) for the
+# matrix multiplication using matmul, ddot, daxpy and dgemm of CBLAS routines
+SIZE        matmul        cblas_ddot        cblas_daxpy        cblas_dgemm
+---------------------------------------------------------------------------
+100         0.0009        0.0010            0.0009             0.0007
+500         0.1257        0.1296            0.3224             0.0720 
+1000        1.0835        1.0956            2.6229             0.5773 
+2000        21.8771       22.1241           35.8033            8.2258 
+5000        381.5073      383.5190          651.2818           106.9948 

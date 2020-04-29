@@ -1,0 +1,10 @@
+#GPU Wall Time in seconds (s) measurements with respect to the square Matrix Size (n) 
+Matrix Size (n) =  500  Native = 0.001  CUBLAS_DDOT = 7.613    CUBLAS_DAXPY = 0.874
+Matrix Size (n) = 1000  Native = 0.007  CUBLAS_DDOT = 30.185   CUBLAS_DAXPY = 3.551
+Matrix Size (n) = 1500  Native = 0.024  CUBLAS_DDOT = 67.527   CUBLAS_DAXPY = 7.818
+Matrix Size (n) = 2000  Native = 0.059  CUBLAS_DDOT = 118.870  CUBLAS_DAXPY = 14.075
+Matrix Size (n) = 2500  Native = 0.105  CUBLAS_DDOT = 187.010  CUBLAS_DAXPY = 21.801
+Matrix Size (n) = 3000  Native = 0.172  CUBLAS_DDOT = 266.661  CUBLAS_DAXPY = 31.545
+Matrix Size (n) = 3500  Native = 0.278  CUBLAS_DDOT = 393.089  CUBLAS_DAXPY = 45.984
+Matrix Size (n) = 4000  Native = 0.387  CUBLAS_DDOT = 522.564  CUBLAS_DAXPY = 59.981
+Matrix Size (n) = 4500  Native = 0.532  CUBLAS_DDOT = 612.319  CUBLAS_DAXPY = 71.606

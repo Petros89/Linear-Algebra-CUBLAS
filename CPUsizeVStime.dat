@@ -1,0 +1,10 @@
+#Wall Time in seconds (s) measurements with respect to the square Matrix Size (n) 
+Matrix Size (n) =  500  Native = 0.126    DDOT = 0.130    DAXPY = 0.324
+Matrix Size (n) = 1000  Native = 1.070    DDOT = 1.082    DAXPY = 2.640
+Matrix Size (n) = 1500  Native = 6.060    DDOT = 5.835    DAXPY = 10.579
+Matrix Size (n) = 2000  Native = 19.389   DDOT = 19.571   DAXPY = 35.448
+Matrix Size (n) = 2500  Native = 32.424   DDOT = 32.496   DAXPY = 72.951
+Matrix Size (n) = 3000  Native = 60.223   DDOT = 60.765   DAXPY = 142.537
+Matrix Size (n) = 3500  Native = 97.782   DDOT = 102.196  DAXPY = 219.003
+Matrix Size (n) = 4000  Native = 208.547  DDOT = 212.221  DAXPY = 344.550
+Matrix Size (n) = 4500  Native = 282.939  DDOT = 286.362  DAXPY = 467.543
